@@ -1,0 +1,14 @@
+[project]
+name = "nsysu-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastf1>=3.7.0",
+    "ipykernel>=7.1.0",
+    "lxml>=6.0.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "xgboost>=3.1.2",
+]
