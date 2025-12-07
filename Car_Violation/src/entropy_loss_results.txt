@@ -1,0 +1,2 @@
+Entropy Loss 1: 0.535295
+Entropy Loss 2: 0.498470
